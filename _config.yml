@@ -1,6 +1,6 @@
 title: vijay.jain
-url: "http://geil.world/"
-baseurl: ""
+url: "https://geil.world/"
+baseurl: "https://geil.world/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "http://geil.world/"
-# footer_text: "Page design by Ankit Sultana"
+footer_url: "https://geil.world/"
+footer_text: "All rights reserved, Vijay Jain (2019)"
 
 sass:
     style: compressed
