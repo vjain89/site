@@ -36,7 +36,7 @@ home: true
 
 
 <!-- Pagination links -->
-<!-- <nav class="pagination">
+<nav class="pagination">
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
       <a href="/" class="previous">&laquo;</a>
@@ -47,4 +47,4 @@ home: true
   {% if paginator.next_page %}
     <a href="/page" class="next ">&raquo;</a>
   {% endif %}
-</nav> -->
+</nav>

@@ -33,11 +33,11 @@ pagination:
   enabled: true
   debug: false
   per_page: 3
-  permalink: '/page/:num/'
-  title: ':title'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
+  # permalink: '/page/:num/'
+  # title: ':title'
+  # limit: 0
+  # sort_field: 'date'
+  # sort_reverse: true
 
 # Build settings
 markdown: kramdown
