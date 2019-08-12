@@ -1,5 +1,5 @@
 title: vijay.jain
-url: "https://github.com/vjain89/me"
+url: "http://geil.world/"
 baseurl: ""
 
 markdown: kramdown
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/vjain89"
+footer_url: "http://geil.world/"
 # footer_text: "Page design by Ankit Sultana"
 
 sass:
