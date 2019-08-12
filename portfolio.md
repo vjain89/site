@@ -18,13 +18,12 @@ home: true
   {% endfor %}
 </ul>
 
-<div class="posts">
+<!-- <div class="posts">
   <div class="grid-xlarge">
     <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
 
       {% for post in paginator.posts %}
 
-        <!-- The tag below includes the markup for each post - partials/post-card.html -->
         {% include post-card.html %}
 
       {% endfor %}
@@ -32,11 +31,11 @@ home: true
   </div>
 
   {% include pagination.html %}
-</div>
+</div> -->
 
 
 <!-- Pagination links -->
-<nav class="pagination">
+<!-- <nav class="pagination">
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
       <a href="/" class="previous">&laquo;</a>
@@ -47,4 +46,4 @@ home: true
   {% if paginator.next_page %}
     <a href="/page" class="next ">&raquo;</a>
   {% endif %}
-</nav>
+</nav> -->
