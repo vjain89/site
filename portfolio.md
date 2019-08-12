@@ -1,13 +1,13 @@
 ---
 layout: default
 title: "Portfolio"
-collection: posts
+<!-- collection: posts -->
 permalink: /portfolio
-entries_layout: grid
-classes: wide
+<!-- entries_layout: grid -->
+<!-- classes: wide -->
 pagination:
   enabled: true
-home: true
+<!-- home: true -->
 ---
 <!-- <ul>
   {% for post in site.posts %}
