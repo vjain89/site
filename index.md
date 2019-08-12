@@ -39,5 +39,3 @@ Let's chat!
     }, 1000);
     }
     setInterval("_changeText()", 1800);</script>
-
-<script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>

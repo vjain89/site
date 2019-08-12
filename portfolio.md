@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Portfolio"
-permalink: portfolio
+permalink: /portfolio
 collection: posts
 entries_layout: grid
 classes: wide

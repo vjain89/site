@@ -10,11 +10,6 @@ tags:
   - Kale
   - Science
 ---
-Broadcasting myself on the internet. A social experiment to help me find what I am looking for.
-
-### Goals for my site
-* Broadcast myself online
-* Curate my portfolio
-* Learn to build website that represents me
+Broadcasting myself on the internet. 
 
 ![Placeholder](/assets/images/placeholder-1.jpg)
