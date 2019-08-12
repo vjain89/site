@@ -9,14 +9,14 @@ pagination:
   enabled: true
 home: true
 ---
-<!-- <ul>
+<ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       - {{ post.headline }}
     </li>
   {% endfor %}
-</ul> -->
+</ul>
 
 <div class="posts">
   <div class="grid-xlarge">
