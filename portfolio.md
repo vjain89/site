@@ -2,6 +2,7 @@
 layout: default
 title: "Portfolio"
 collection: posts
+permalink: /portfolio
 entries_layout: grid
 classes: wide
 pagination:

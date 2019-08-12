@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "About"
+permalink: /about
 ---
 
 <img class="profile-picture" src="sherlock.jpg">
