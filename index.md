@@ -2,44 +2,42 @@
 layout: default
 ---
 
-## About Me
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<img class="profile-picture" src="sherlock.jpg">
+<!-- ## Welcome! -->
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+<!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+<div class="body">My name is Vijay Jain. I am a 
+	<span id="changer">quantum engineer.</span></div>
 
-## Research Interest
+I work at the <a href="https://quantuminstitute.yale.edu">Yale Quantum Institute</a> and am from New York and Zürich. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Check out my <a href="/portfolio">Portfolio</a>. 
 
-## Publications
+Let's chat!
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+<a href="https://scholar.google.com/citations?user=XjmA_Q4AAAAJ&hl=en&oi=ao" target="_blank"><i class="fa fa-google"></i></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vjain89" target="_blank"><i class="fa fa-linkedin"></i></a>&nbsp;&nbsp;
+<a href="https://twitter.com/89Vjain" target="_blank"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;
 
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+<script>    var words = ["quantum engineer.", "laser scientist.", "collaborator.", "public speaker.", "German speaker.", "Pahari painting enthusiast.", "rower.", "cyclist."];
+    var i = 0;
+    var text = "quantum engineer.";
+    function _getChangedText() {
+      i = (i + 1) % words.length;
+      return text.replace(/quantum engineer./, words[i]);
+    }
+    function _changeText() {
+      var txt = _getChangedText();
+        var d = document.getElementById("changer")
+        d.className = "fadeOut";
+        setTimeout(function(){
+         d.className = "";
+        document.getElementById("changer").innerHTML = txt;
+    }, 1000);
+    }
+    setInterval("_changeText()", 1800);</script>
 
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+<script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>

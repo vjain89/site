@@ -1,6 +1,6 @@
-title: .vijayjain
+title: vijay.jain
 url: "https://github.com/vjain89/me"
-baseurl: "/me"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,8 +17,43 @@ sass:
 
 nav:
  - name: "About"
-   link: "/about"
+   link: "about"
  - name: "Portfolio"
-   link: "/portfolio"
+   link: "portfolio"
  - name: "Contact"
-   link: "/contact"
+   link: "contact"
+
+collections:
+  posts:
+    output: true
+
+
+# Pagination settings
+pagination:
+  enabled: true
+  debug: false
+  per_page: 3
+  permalink: '/page/:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - node_modules
+  - .DS_Store
+  - barber.jpg
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md
