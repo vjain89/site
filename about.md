@@ -22,7 +22,7 @@ Garcia Center of Stony Brook University (2005-2007)
 ## Education
 Ph.D. Electrical Engineering, ETH Zürich (2018)
 
-M.Sc. Physics, Univ. Rochester (2012)
+M.A. Physics, Univ. Rochester (2012)
 
 A.B. Chemistry & Physics, Harvard University (2011)
 
