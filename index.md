@@ -11,7 +11,8 @@ layout: default
 <div class="body">My name is Vijay Jain. I am a 
 	<span id="changer">quantum engineer.</span></div>
 
-I am from New York and Zürich and am currently connecting superconducting circuits to sound waves in crystals as a memory for quantum information at the <a href="https://quantuminstitute.yale.edu">Yale Quantum Institute</a>. 
+I am from New York and Zürich but live in New Haven.
+Currently, I am connecting superconducting circuits to sound waves in crystals as a memory for quantum information as a Postdoctoral Associate at the <a href="https://quantuminstitute.yale.edu">Yale Quantum Institute</a>. 
 
 My portfolio is coming online soon. Let's chat!
 
