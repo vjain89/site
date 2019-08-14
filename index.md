@@ -33,7 +33,7 @@ My portfolio is coming online soon. Let's chat!
         document.getElementById("changer").innerHTML = txt;
     }, 1000);
     }
-    setInterval("_changeText()", 1800);</script>
+    setInterval("_changeText()", 2500);</script>
 
 <a href="https://scholar.google.com/citations?user=XjmA_Q4AAAAJ&hl=en&oi=ao" target="_blank"><i class="fa fa-google"></i></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vjain89" target="_blank"><i class="fa fa-linkedin"></i></a>&nbsp;&nbsp;
