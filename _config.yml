@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: no
 footer_url: "https://vijay.be/"
-footer_text: "All rights reserved, Vijay Jain (2019)"
+# footer_text: "All rights reserved, Vijay Jain (2019)"
 
 sass:
     style: compressed
