@@ -1,6 +1,6 @@
 title: vijay.jain
 url: "https://vijay.be/"
-baseurl: "" 
+baseurl: "https://vijay.be"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
