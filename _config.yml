@@ -1,6 +1,6 @@
 title: vijay.jain
-url: "https://geil.world/"
-baseurl: "https://geil.world/"
+url: "http://vijay.be/"
+baseurl: "http://vijay.be/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: no
-footer_url: "https://geil.world/"
+footer_url: "https://vijay.be/"
 footer_text: "All rights reserved, Vijay Jain (2019)"
 
 sass:
@@ -18,8 +18,8 @@ sass:
 nav:
  - name: "About"
    link: "about"
- - name: "Portfolio"
-   link: "portfolio"
+ # - name: "Portfolio"
+ #   link: "portfolio"
  - name: "Contact"
    link: "contact"
 

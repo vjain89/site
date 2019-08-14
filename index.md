@@ -13,9 +13,8 @@ layout: default
 
 I work at the <a href="https://quantuminstitute.yale.edu">Yale Quantum Institute</a> and am from New York and Zürich. 
 
-Check out my <a href="/portfolio">Portfolio</a>. 
-
-Let's chat!
+<!-- Check out my <a href="/portfolio">Portfolio</a>.  -->
+My portfolio is coming online soon. Let's chat!
 
 <a href="https://scholar.google.com/citations?user=XjmA_Q4AAAAJ&hl=en&oi=ao" target="_blank"><i class="fa fa-google"></i></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vjain89" target="_blank"><i class="fa fa-linkedin"></i></a>&nbsp;&nbsp;
