@@ -3,6 +3,8 @@ layout: default
 permalink: /about
 ---
 
+He/him/his
+
 <img class="profile-picture" src="sherlock.jpg">
 
 ## Scientific statement
