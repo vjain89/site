@@ -11,10 +11,9 @@ layout: default
 <div class="body">My name is Vijay Jain. I am a 
 	<span id="changer">quantum engineer.</span></div>
 
-I work at the <a href="https://quantuminstitute.yale.edu">Yale Quantum Institute</a> and am from New York and Zürich. 
+I am from New York and Zürich and am currently connecting superconducting circuits to sound waves in crystals as a memory for quantum information at the <a href="https://quantuminstitute.yale.edu">Yale Quantum Institute</a>. 
 
-<!-- Check out my <a href="/portfolio">Portfolio</a>.  -->
-Currently, I am connecting superconducting circuits to sound waves in crystals as a memory for quantum information. My portfolio is coming online soon. Let's chat!
+My portfolio is coming online soon. Let's chat!
 
 
 <script>    var words = ["quantum engineer.", "laser scientist.", "collaborator.", "public speaker.", "German speaker.", "Pahari painting enthusiast.", "rower.", "cyclist."];
