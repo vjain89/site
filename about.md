@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "About"
 permalink: /about
 ---
 
@@ -26,7 +25,6 @@ Ph.D. Electrical Engineering, ETH Zürich (2018)
 M.Sc. Physics, Univ. Rochester (2012)
 
 B.A. Chemistry & Physics, Harvard University (2011)
-
 
 
 <a href="https://scholar.google.com/citations?user=XjmA_Q4AAAAJ&hl=en&oi=ao" target="_blank"><i class="fa fa-google"></i></a>&nbsp;&nbsp;
