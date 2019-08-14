@@ -14,11 +14,7 @@ layout: default
 I work at the <a href="https://quantuminstitute.yale.edu">Yale Quantum Institute</a> and am from New York and Zürich. 
 
 <!-- Check out my <a href="/portfolio">Portfolio</a>.  -->
-My portfolio is coming online soon. Let's chat!
-
-<a href="https://scholar.google.com/citations?user=XjmA_Q4AAAAJ&hl=en&oi=ao" target="_blank"><i class="fa fa-google"></i></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vjain89" target="_blank"><i class="fa fa-linkedin"></i></a>&nbsp;&nbsp;
-<a href="https://twitter.com/89Vjain" target="_blank"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;
+Currently, I am connecting superconducting circuits to sound waves in crystals as a memory for quantum information. My portfolio is coming online soon. Let's chat!
 
 
 <script>    var words = ["quantum engineer.", "laser scientist.", "collaborator.", "public speaker.", "German speaker.", "Pahari painting enthusiast.", "rower.", "cyclist."];
@@ -38,3 +34,7 @@ My portfolio is coming online soon. Let's chat!
     }, 1000);
     }
     setInterval("_changeText()", 1800);</script>
+
+<a href="https://scholar.google.com/citations?user=XjmA_Q4AAAAJ&hl=en&oi=ao" target="_blank"><i class="fa fa-google"></i></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vjain89" target="_blank"><i class="fa fa-linkedin"></i></a>&nbsp;&nbsp;
+<a href="https://twitter.com/89Vjain" target="_blank"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;

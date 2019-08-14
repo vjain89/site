@@ -26,3 +26,9 @@ Ph.D. Electrical Engineering, ETH Zürich (2018)
 M.Sc. Physics, Univ. Rochester (2012)
 
 B.A. Chemistry & Physics, Harvard University (2011)
+
+
+
+<a href="https://scholar.google.com/citations?user=XjmA_Q4AAAAJ&hl=en&oi=ao" target="_blank"><i class="fa fa-google"></i></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vjain89" target="_blank"><i class="fa fa-linkedin"></i></a>&nbsp;&nbsp;
+<a href="https://twitter.com/89Vjain" target="_blank"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;
