@@ -1,6 +1,6 @@
 title: vijay.jain
-url: "http://vijay.be/"
-baseurl: "http://vijay.be/"
+url: "https://vijay.be/"
+baseurl: "https://vijay.be/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: no
 footer_url: "https://vijay.be/"
-# footer_text: "All rights reserved, Vijay Jain (2019)"
+footer_text: "All rights reserved (2019)"
 
 sass:
     style: compressed
@@ -18,10 +18,10 @@ sass:
 nav:
  - name: "About"
    link: "about"
- # - name: "Portfolio"
- #   link: "portfolio"
  - name: "Contact"
    link: "contact"
+# - name: "Portfolio"
+#   link: "portfolio"
 
 collections:
   posts:
