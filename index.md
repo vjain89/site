@@ -17,7 +17,7 @@ I work at the <a href="https://quantuminstitute.yale.edu">Yale Quantum Institute
 My portfolio is coming online soon. Let's chat!
 
 
-<script>    var words = ["quantum engineer.", "laser scientist.", "collaborator.", "public speaker.", "German speaker.", "Pahari painting enthusiast.", "rower.", "cyclist."];
+<script>    var words = ["quantum engineer.", "laser scientist.", "collaborator.", "public speaker.", "German speaker.", "Pahari painting enthusiast.", "rower and cyclist."];
     var i = 0;
     var text = "quantum engineer.";
     function _getChangedText() {
