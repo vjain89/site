@@ -8,5 +8,3 @@ permalink: /contact
 
 
 Email: vijay [dot] jain [at] post [dot] harvard [dot] edu
-
-Blah!
