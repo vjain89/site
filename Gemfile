@@ -27,4 +27,7 @@ group :jekyll_plugins do
   gem "jekyll-compose"
   gem "kramdown"
   gem "jekyll-sitemap"
+  gem "bootstrap-sass", "~> 3.4.1"
+  gem "sassc-rails", ">= 2.1.0"
+  gem "wdm", ">= 0.1.0" if Gem.win_platform?
 end
